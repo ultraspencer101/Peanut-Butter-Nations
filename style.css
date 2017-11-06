@@ -1,0 +1,38 @@
+body {
+  background-color: wheat;
+}
+
+h1 {
+  color:brown;
+  font-family: Arial;
+  border: 5px solid brown;
+}
+
+h3 {
+  background-color: brown;
+  color: white;
+  font-family: Arial;
+}
+
+p {
+  color: darkred;
+  font-family: Arial;
+}
+
+#highlight {
+  background-color: brown;
+  color: GoldenRod;
+  border: 3px solid GoldenRod;
+  float: middle;
+}
+
+li {
+  color: darkred;
+  font-family: Arial;
+}
+
+img {
+  border: 3px solid GoldenRod;
+  width: 40%;
+  height: 70%;
+}
